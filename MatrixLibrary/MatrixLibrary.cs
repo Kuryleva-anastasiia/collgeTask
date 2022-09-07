@@ -6,6 +6,7 @@ namespace MatrixLibrary
 	{
         private int n;
         private int[,] array;
+        const a = 0;
 
         // Создаем конструкторы матрицы
         public Matrix() { }
