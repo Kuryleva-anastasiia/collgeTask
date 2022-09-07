@@ -7,6 +7,7 @@ namespace GraphicsOut
     public static class Out
     {
         static string path;
+        //комент для комита
         
         public static void WhriteInFile(string text)
         {
